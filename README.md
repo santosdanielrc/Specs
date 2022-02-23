@@ -1,4 +1,4 @@
-# The CocoaPods Master Repo
+# A Trimmed Clone of the CocoaPods Master Repo, Tailored for the Jumio SDK v3.8.0
 
 This repository contains the public [CocoaPods](https://github.com/CocoaPods/CocoaPods) specifications.
 
